@@ -1,0 +1,9 @@
+AE V3.06
+
+Built with MSVS2017 Compiler
+Supports x64
+Added VSync
+Updated glew
+Fixed warnings
+Assertion Macros - Fixed
+Fixed various bugs
